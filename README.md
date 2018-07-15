@@ -4,7 +4,7 @@
 
 -----------------------------------------------------------
 
-* The live streaming of [project]().
+* The live streaming of [project](https://harsimarsingh8.github.io/The-Car-Store/index.html).
 * Project can be viewed at my [Github Repository](https://github.com/harsimarsingh8/The-Car-Store).
 
 ------------------------------------------------------------
